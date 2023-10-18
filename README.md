@@ -29,5 +29,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinanRoshanAP&theme=gruvbox&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Sinan Roshan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SinanRoshanAP&bg_color=202020&color=fabd2f&line=d65d0e&point=689d6a&area=true&hide_border=true)]
