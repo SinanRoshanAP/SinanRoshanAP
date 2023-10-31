@@ -1,5 +1,5 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Prasoon</h1>
-<h3 align="center">React Developer at Aufaitux</h3>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sinan Roshan</h1>
+<h3 align="center">Angular Developer at Aufaitux</h3>
 <!-- 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" > -->
 
@@ -11,17 +11,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=SinanRoshanAP&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
-<!-- - 👨‍💻 All of my projects are available at [prasoonm.com](prasoonm.com)
+- 📫 How to reach me *sinan@aufaitux.com*
 
-- 📫 How to reach me *prasoon@aufaitux.com*
-
-- 📄 Know about my experiences [you can refer my portfolio](you can refer my portfolio) -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohan_prasoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohan_prasoon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prasoon-mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasoon-mohan" height="30" width="40" /></a>
-<a href="https://instagram.com/web.devofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="web.devofficial" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sinan-roshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasoon-mohan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
